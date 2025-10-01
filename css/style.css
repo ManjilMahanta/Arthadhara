@@ -116,7 +116,7 @@ h1::after {
 
 .hero {
   height: 100vh;
-  background: url('herobanner.jpg') no-repeat center center/cover;
+  background: url('https://github.com/ManjilMahanta/Arthadhara/blob/d59f70d759814c9870a7b106d872ce7f40bdf99e/herobanner.jpg') no-repeat center center/cover;
   animation: heroBgZoom 20s infinite alternate;
   position: relative;
   display: flex;
