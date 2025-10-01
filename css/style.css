@@ -116,7 +116,7 @@ h1::after {
 
 .hero {
   height: 100vh;
-  background: url('/herobanner.jpg') no-repeat center center/cover;
+  background: url('herobanner.jpg') no-repeat center center/cover;
   animation: heroBgZoom 20s infinite alternate;
   position: relative;
   display: flex;
